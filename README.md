@@ -48,4 +48,8 @@ Me chamo Kauan Macedo, tenho 21 anos e sou natural de Pernambuco. Concluí o ens
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogkauann&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</div> 
+  <img src="https://raw.githubusercontent.com/engcomAndre/engcomAndre/output/github-contribution-grid-snake.svg"/>
+</div>
+
 </p>
