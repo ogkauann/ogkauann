@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Kauan Macedo, tenho 21 anos e sou natural de Pernambuco. Concluí o ensino médio no EEMTI Jenny Gomes. Atualmente, estou cursando Ciencias da Computação na Estácio VIACORP. Sou apaixonado por tecnologia.".
+Me chamo Kauan Macedo, tenho 22 anos e sou natural de Pernambuco. Concluí o ensino médio no EEMTI Jenny Gomes. Atualmente, estou cursando Ciencias da Computação na Estácio VIACORP. Sou apaixonado por tecnologia.".
 
 <p align="left"> 
     <a href="https://github.com/ogkauann?tab=repositories&sort=stargazers">
