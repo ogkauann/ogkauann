@@ -38,7 +38,7 @@ Me chamo Kauan Macedo, tenho 22 anos e sou natural de Pernambuco. Concluí o ens
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ogkauann)](https://github.com/stats-organization/github-stats-extended)&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-stats-extended.vercel.app/api?username=ogkauann&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
