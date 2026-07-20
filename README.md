@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=C6A0F6&center=true&vCenter=true&width=560&lines=oi%2C+eu+sou+kauan+%F0%9F%91%8B;desenvolvedor+fullstack;caf%C3%A9+in%2C+c%C3%B3digo+out" /><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=8839EF&center=true&vCenter=true&width=560&lines=oi%2C+eu+sou+kauan+%F0%9F%91%8B;desenvolvedor+fullstack;caf%C3%A9+in%2C+c%C3%B3digo+out" /><img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=C6A0F6&center=true&vCenter=true&width=560&lines=oi%2C+eu+sou+kauan+%F0%9F%91%8B;desenvolvedor+fullstack;caf%C3%A9+in%2C+c%C3%B3digo+out" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=C6A0F6&center=true&vCenter=true&width=560&lines=oi%2C+eu+sou+kauan+%F0%9F%91%8B;desenvolvedor+fullstack;level+up%2C+ship%2C+repeat" /><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=8839EF&center=true&vCenter=true&width=560&lines=oi%2C+eu+sou+kauan+%F0%9F%91%8B;desenvolvedor+fullstack;level+up%2C+ship%2C+repeat" /><img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=C6A0F6&center=true&vCenter=true&width=560&lines=oi%2C+eu+sou+kauan+%F0%9F%91%8B;desenvolvedor+fullstack;level+up%2C+ship%2C+repeat" /></picture>
 
 <p>
   <a href="http://www.cedodev.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/website-24273a?style=for-the-badge&logo=safari&logoColor=91d7e3" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/website-eff1f5?style=for-the-badge&logo=safari&logoColor=04a5e5" /><img alt="website" src="https://img.shields.io/badge/website-24273a?style=for-the-badge&logo=safari&logoColor=91d7e3" /></picture></a>
@@ -29,7 +29,7 @@ location: Fortaleza/CE - Brasil
 work: Secretária de Planejamento e Gestão - CEARÁ
 education: Ciências da Computação @ Estácio VIACORP
 focus: typescript · react · node.js
-motto: café in, código out
+motto: level up, ship, repeat
 ```
 
 <div align="center">
