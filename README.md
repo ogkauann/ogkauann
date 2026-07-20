@@ -24,9 +24,10 @@
 ```yaml
 name: Kauan Macedo
 age: 22
-role: desenvolvedor
-location: Pernambuco, Brasil
-education: "Ciências da Computação @ Estácio VIACORP"
+role: Desenvolvedor full-stack
+location: Fortaleza/CE - Brasil
+work: Secretária de Planejamento e Gestão - CEARÁ
+education: Ciências da Computação @ Estácio VIACORP
 focus: typescript · react · node.js
 motto: café in, código out
 ```
@@ -79,7 +80,5 @@ motto: café in, código out
 </div>
 
 <div align="center">
-
-<sub>feito com <code>café</code>, muitas abas abertas e uma xícara vazia</sub>
 
 </div>
